@@ -9,7 +9,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "chance": "^1.0.18",
     "cheerio": "^1.0.0-rc.2",
+    "json2csv": "^4.3.2",
     "request-promise": "^4.2.2"
   }
 }
